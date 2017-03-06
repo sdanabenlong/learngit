@@ -3,4 +3,5 @@ git is free software for diffrent!
 aaa
 bbb
 ddd
-dev -config delete
+dev -config add & delete
+
