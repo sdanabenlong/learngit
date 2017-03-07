@@ -5,3 +5,4 @@ bbb
 ddd
 dev -config add & delete
 add branch --issue101
+add branch --dev
